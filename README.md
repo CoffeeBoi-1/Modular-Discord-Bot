@@ -2,8 +2,8 @@
 Simple modular bot for Discord. Adding commands is easy!
 
 **How to add new command for Bot**
-  1. Copy and paste modules\1.js
-  2.Rename this file as the command will be called
+  1.Copy and paste modules\1.js__
+  2.Rename this file as the command will be called<br/> 
   EXAMPLE:
   FILE NAME : dance.js
   IN CHAT CALL : (bot_prefix)dance
