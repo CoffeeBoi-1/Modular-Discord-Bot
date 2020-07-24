@@ -1,0 +1,50 @@
+{
+    "botID":"",
+    "prefix":"D.",
+
+    "config":{
+        "wrongCommandMsg":"Sorry senpai, I don't know such a command ...",
+        "haventCommandInModules":"Oops ... Senpai, I don't have this command file ...",
+        "OK":"Hooray! Senpai, it worked out!",
+        "innerError":"An error has occurred! Don't worry, it's not your fault",
+        "helpMsg":"You will get by! Senpai Baka ..."
+    },
+
+    "users":{
+        "owner":{"id":""}
+    },
+
+    "woQuest":[
+        "Why are you humming? Weak ...",
+        "Fu. You disgust me ...",
+        "Learn to speak, baka ...",
+        "I would answer if you weren't so pathetic ..."
+    ],
+
+    "wQuest":[
+        "Sure!",
+        "Probably...",
+        "Not.",
+        "Rather yes than no.",
+        "More likely no than yes.",
+        "I'll tell you a secret - yes.",
+        "I'll tell you a secret - no",
+        "Maybe yes ... Or maybe not ...",
+        "I won't tell you anything!... Fool!",
+        "Why all of a sudden such questions? You will not get an answer to it !!!",
+        "To ... Of course yes... Fool..."
+    ],
+
+    "severs":{
+        
+    },
+
+    "commands":[
+        "help",
+        "fight"
+    ],
+
+    "commandsCMD":[
+        "getGuilds"
+    ]
+}
